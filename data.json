@@ -1,0 +1,432 @@
+{
+  "lang": "fa",
+  "theme": "dark",
+  "a": "#f59e0b",
+  "b": "#ef4444",
+  "font": "Vazirmatn,Tahoma,sans-serif",
+  "nameFa": "رستوران نمونه",
+  "nameEn": "Sample Restaurant",
+  "titleFa": "طعم اصیل، حال‌وهوای خوب",
+  "titleEn": "Authentic taste, good vibes",
+  "bioFa": "با مواد اولیه‌ی تازه و دستور پخت اصیل، هر روز بهترین غذاها را برای شما آماده می‌کنیم.",
+  "bioEn": "Fresh ingredients and authentic recipes, prepared for you every day.",
+  "badge": "",
+  "badgeEn": "",
+  "phone": "+989123456789",
+  "email": "",
+  "city": "تهران، خیابان نمونه",
+  "cityEn": "Sample St, Tehran",
+  "web": "",
+  "map": "",
+  "avatar": "",
+  "cover": "",
+  "aboutImg": "",
+  "skills": "پارکینگ,وای‌فای,فضای باز,رزرو میز",
+  "skillsEn": "Parking,Wi-Fi,Outdoor seating,Table reservation",
+  "exp": "۱۳۹۸",
+  "expEn": "2019",
+  "langs": "ایرانی، فرنگی",
+  "langsEn": "Iranian, International",
+  "sec": {
+    "menu": 1,
+    "cart": 1,
+    "more": 1
+  },
+  "soc": [
+    {
+      "p": "instagram",
+      "u": "sample.restaurant",
+      "on": 1
+    },
+    {
+      "p": "telegram",
+      "u": "samplerestaurant",
+      "on": 1
+    },
+    {
+      "p": "whatsapp",
+      "u": "989123456789",
+      "on": 1
+    },
+    {
+      "p": "youtube",
+      "u": "",
+      "on": 0
+    },
+    {
+      "p": "linkedin",
+      "u": "",
+      "on": 0
+    },
+    {
+      "p": "github",
+      "u": "",
+      "on": 0
+    },
+    {
+      "p": "x",
+      "u": "",
+      "on": 0
+    },
+    {
+      "p": "rubika",
+      "u": "",
+      "on": 0
+    },
+    {
+      "p": "aparat",
+      "u": "",
+      "on": 0
+    },
+    {
+      "p": "eitaa",
+      "u": "",
+      "on": 0
+    },
+    {
+      "p": "bale",
+      "u": "",
+      "on": 0
+    },
+    {
+      "p": "soroush",
+      "u": "",
+      "on": 0
+    },
+    {
+      "p": "gap",
+      "u": "",
+      "on": 0
+    }
+  ],
+  "cats": [
+    {
+      "id": "c1",
+      "t": "پیش‌غذا",
+      "te": "Starters",
+      "on": 1
+    },
+    {
+      "id": "c2",
+      "t": "غذای اصلی",
+      "te": "Main courses",
+      "on": 1
+    },
+    {
+      "id": "c3",
+      "t": "پیتزا و برگر",
+      "te": "Pizza & burgers",
+      "on": 1
+    },
+    {
+      "id": "c4",
+      "t": "نوشیدنی",
+      "te": "Drinks",
+      "on": 1
+    },
+    {
+      "id": "c5",
+      "t": "دسر",
+      "te": "Desserts",
+      "on": 1
+    }
+  ],
+  "items": [
+    {
+      "id": "i1",
+      "ci": "c1",
+      "t": "سالاد سزار",
+      "te": "Caesar salad",
+      "d": "کاهو، مرغ گریل، پنیر پارمزان و سس مخصوص",
+      "de": "Lettuce, grilled chicken, parmesan and house dressing",
+      "l": "",
+      "le": "",
+      "ing": "کاهو، مرغ، پارمزان، نان تست، سس سزار",
+      "inge": "Lettuce, chicken, parmesan, croutons, Caesar dressing",
+      "p": "185000",
+      "o": "",
+      "img": "",
+      "on": 1
+    },
+    {
+      "id": "i2",
+      "ci": "c1",
+      "t": "سوپ جو",
+      "te": "Barley soup",
+      "d": "سوپ سنتی با جو و سبزیجات تازه",
+      "de": "Traditional soup with barley and fresh vegetables",
+      "l": "",
+      "le": "",
+      "ing": "",
+      "inge": "",
+      "p": "95000",
+      "o": "",
+      "img": "",
+      "on": 1,
+      "vg": 1
+    },
+    {
+      "id": "i3",
+      "ci": "c2",
+      "t": "چلوکباب کوبیده",
+      "te": "Koobideh kebab",
+      "d": "دو سیخ کباب کوبیده با برنج ایرانی، گوجه و کره",
+      "de": "Two skewers of koobideh with Persian rice, tomato and butter",
+      "l": "",
+      "le": "",
+      "ing": "گوشت گوسفندی و گوساله، پیاز، برنج، گوجه",
+      "inge": "Lamb and beef, onion, rice, tomato",
+      "p": "420000",
+      "o": "",
+      "img": "",
+      "on": 1,
+      "pp": 1
+    },
+    {
+      "id": "i4",
+      "ci": "c2",
+      "t": "جوجه‌کباب",
+      "te": "Chicken kebab",
+      "d": "سینه‌ی مرغ زعفرانی با برنج و گوجه",
+      "de": "Saffron chicken breast with rice and grilled tomato",
+      "l": "",
+      "le": "",
+      "ing": "",
+      "inge": "",
+      "p": "360000",
+      "o": "",
+      "img": "",
+      "on": 1,
+      "nw": 1
+    },
+    {
+      "id": "i5",
+      "ci": "c2",
+      "t": "زرشک‌پلو با مرغ",
+      "te": "Barberry rice with chicken",
+      "d": "مرغ ترش با برنج زعفرانی و زرشک",
+      "de": "Braised chicken with saffron rice and barberries",
+      "l": "",
+      "le": "",
+      "ing": "",
+      "inge": "",
+      "p": "310000",
+      "o": "",
+      "img": "",
+      "on": 1
+    },
+    {
+      "id": "i6",
+      "ci": "c3",
+      "t": "پیتزا مخصوص",
+      "te": "Special pizza",
+      "d": "ژامبون، قارچ، فلفل دلمه‌ای و پنیر موزارلا",
+      "de": "Ham, mushrooms, bell pepper and mozzarella",
+      "l": "",
+      "le": "",
+      "ing": "",
+      "inge": "",
+      "p": "380000",
+      "o": "10",
+      "img": "",
+      "on": 1,
+      "sp": 1,
+      "pp": 1
+    },
+    {
+      "id": "i7",
+      "ci": "c3",
+      "t": "برگر کلاسیک",
+      "te": "Classic burger",
+      "d": "برگر ۱۸۰ گرمی با سیب‌زمینی سرخ‌کرده",
+      "de": "180 g beef burger with fries",
+      "l": "",
+      "le": "",
+      "ing": "",
+      "inge": "",
+      "p": "290000",
+      "o": "",
+      "img": "",
+      "on": 1,
+      "hot": 1
+    },
+    {
+      "id": "i8",
+      "ci": "c4",
+      "t": "دوغ محلی",
+      "te": "Traditional doogh",
+      "d": "دوغ سنتی با نعناع خشک",
+      "de": "Traditional yogurt drink with dried mint",
+      "l": "",
+      "le": "",
+      "ing": "",
+      "inge": "",
+      "p": "45000",
+      "o": "",
+      "img": "",
+      "on": 1
+    },
+    {
+      "id": "i9",
+      "ci": "c4",
+      "t": "نوشابه",
+      "te": "Soft drink",
+      "d": "",
+      "de": "",
+      "l": "",
+      "le": "",
+      "ing": "",
+      "inge": "",
+      "p": "35000",
+      "o": "",
+      "img": "",
+      "on": 1
+    },
+    {
+      "id": "i10",
+      "ci": "c5",
+      "t": "چیزکیک",
+      "te": "Cheesecake",
+      "d": "چیزکیک نیویورکی با سس توت‌فرنگی",
+      "de": "New York cheesecake with strawberry sauce",
+      "l": "",
+      "le": "",
+      "ing": "",
+      "inge": "",
+      "p": "140000",
+      "o": "",
+      "img": "",
+      "on": 1,
+      "nw": 1,
+      "sp": 1
+    }
+  ],
+  "hrs": [
+    {
+      "o": "11:00",
+      "c": "23:30",
+      "x": 0
+    },
+    {
+      "o": "11:00",
+      "c": "23:30",
+      "x": 0
+    },
+    {
+      "o": "11:00",
+      "c": "23:30",
+      "x": 0
+    },
+    {
+      "o": "11:00",
+      "c": "23:30",
+      "x": 0
+    },
+    {
+      "o": "11:00",
+      "c": "23:30",
+      "x": 0
+    },
+    {
+      "o": "11:00",
+      "c": "00:30",
+      "x": 0
+    },
+    {
+      "o": "12:00",
+      "c": "00:30",
+      "x": 0
+    }
+  ],
+  "cur": "تومان",
+  "curEn": "Toman",
+  "ordOn": 1,
+  "ordPhone": "",
+  "wifiS": "",
+  "wifiP": "",
+  "tbl": 10,
+  "port": [
+    {
+      "t": "فضای داخلی",
+      "te": "Interior",
+      "img": ""
+    },
+    {
+      "t": "فضای باز",
+      "te": "Outdoor area",
+      "img": ""
+    },
+    {
+      "t": "غذاهای ما",
+      "te": "Our dishes",
+      "img": ""
+    },
+    {
+      "t": "شب‌های رستوران",
+      "te": "Restaurant nights",
+      "img": ""
+    }
+  ],
+  "rev": [
+    {
+      "n": "علی رضایی",
+      "ne": "Ali Rezaei",
+      "r": "5",
+      "d": "۳ هفته پیش",
+      "de": "3 weeks ago",
+      "m": "کباب‌ها عالی بود و پرسنل خیلی خوش‌برخورد بودن.",
+      "me": "The kebabs were excellent and the staff was very friendly."
+    },
+    {
+      "n": "مینا کاظمی",
+      "ne": "Mina Kazemi",
+      "r": "5",
+      "d": "۱ ماه پیش",
+      "de": "1 month ago",
+      "m": "فضای دنج و غذاهای خوشمزه، حتماً دوباره میام.",
+      "me": "Cozy place and delicious food, I will definitely come back."
+    }
+  ],
+  "book": [
+    {
+      "t": "میز دو نفره",
+      "te": "Table for two",
+      "d": "رزرو میز برای ۲ نفر",
+      "de": "Reserve a table for 2 guests"
+    },
+    {
+      "t": "میز خانوادگی",
+      "te": "Family table",
+      "d": "رزرو میز برای ۴ تا ۸ نفر",
+      "de": "Reserve a table for 4–8 guests"
+    }
+  ],
+  "files": [
+    {
+      "t": "منوی کامل (PDF)",
+      "te": "Full menu (PDF)",
+      "m": "PDF • 2 MB",
+      "u": ""
+    }
+  ],
+  "_v": 0,
+  "pw": "",
+  "cc": {
+    "dark": {},
+    "light": {}
+  },
+  "langBtn": 1,
+  "langSw": 1,
+  "thSw": 1,
+  "bank": [],
+  "vis": {},
+  "fonts": [],
+  "fnt": {
+    "all": "vazir",
+    "title": "def",
+    "btn": "def",
+    "nav": "def",
+    "pg": {}
+  },
+  "sl": {}
+}
